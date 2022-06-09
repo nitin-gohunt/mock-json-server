@@ -1,10 +1,24 @@
 {
-  "posts": [{ "id": 1, "title": "json-server", "author": "typicode" }],
-  "comments": [{ "id": 1, "body": "some comment", "postId": 1 }],
-  "profile": { "name": "typicode" },
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
   "hunts": [
     {
-      "name": "From Maps",
+      "name": null,
       "folderId": 0,
       "id": 15929,
       "huntsCoverImgUrl": null,
@@ -21,10 +35,26 @@
       "id": 18552,
       "huntsCoverImgUrl": "557",
       "seasonsListRef": [
-        { "seasonsRef": 10386, "notes": null, "seasonsOrderId": 2 },
-        { "seasonsRef": 10135, "notes": null, "seasonsOrderId": 1 },
-        { "seasonsRef": 23143, "notes": null, "seasonsOrderId": 3 },
-        { "seasonsRef": 25816, "notes": null, "seasonsOrderId": 4 }
+        {
+          "seasonsRef": 10386,
+          "notes": null,
+          "seasonsOrderId": 2
+        },
+        {
+          "seasonsRef": 10135,
+          "notes": null,
+          "seasonsOrderId": 1
+        },
+        {
+          "seasonsRef": 23143,
+          "notes": null,
+          "seasonsOrderId": 3
+        },
+        {
+          "seasonsRef": 25816,
+          "notes": null,
+          "seasonsOrderId": 4
+        }
       ],
       "notes": [],
       "photos": null,
@@ -38,7 +68,11 @@
       "id": 15012,
       "huntsCoverImgUrl": "357",
       "seasonsListRef": [
-        { "seasonsRef": 10317, "notes": null, "seasonsOrderId": 1 }
+        {
+          "seasonsRef": 10317,
+          "notes": null,
+          "seasonsOrderId": 1
+        }
       ],
       "notes": [
         {
@@ -67,11 +101,31 @@
       "id": 12960,
       "huntsCoverImgUrl": "435",
       "seasonsListRef": [
-        { "seasonsRef": 13634, "notes": null, "seasonsOrderId": 2 },
-        { "seasonsRef": 46071, "notes": null, "seasonsOrderId": 3 },
-        { "seasonsRef": 10316, "notes": null, "seasonsOrderId": 3 },
-        { "seasonsRef": 10521, "notes": null, "seasonsOrderId": 4 },
-        { "seasonsRef": 10317, "notes": null, "seasonsOrderId": 5 }
+        {
+          "seasonsRef": 13634,
+          "notes": null,
+          "seasonsOrderId": 2
+        },
+        {
+          "seasonsRef": 46071,
+          "notes": null,
+          "seasonsOrderId": 3
+        },
+        {
+          "seasonsRef": 10316,
+          "notes": null,
+          "seasonsOrderId": 3
+        },
+        {
+          "seasonsRef": 10521,
+          "notes": null,
+          "seasonsOrderId": 4
+        },
+        {
+          "seasonsRef": 10317,
+          "notes": null,
+          "seasonsOrderId": 5
+        }
       ],
       "notes": [],
       "photos": null,
@@ -97,7 +151,11 @@
       "id": 19524,
       "huntsCoverImgUrl": "524",
       "seasonsListRef": [
-        { "seasonsRef": 10315, "notes": null, "seasonsOrderId": 1 }
+        {
+          "seasonsRef": 10315,
+          "notes": null,
+          "seasonsOrderId": 1
+        }
       ],
       "notes": [
         {
@@ -119,7 +177,11 @@
       "id": 18973,
       "huntsCoverImgUrl": "527",
       "seasonsListRef": [
-        { "seasonsRef": 10315, "notes": null, "seasonsOrderId": 1 }
+        {
+          "seasonsRef": 10315,
+          "notes": null,
+          "seasonsOrderId": 1
+        }
       ],
       "notes": [],
       "photos": null,
@@ -145,9 +207,21 @@
       "id": 10706,
       "huntsCoverImgUrl": "353",
       "seasonsListRef": [
-        { "seasonsRef": 11949, "notes": null, "seasonsOrderId": 3 },
-        { "seasonsRef": 13634, "notes": null, "seasonsOrderId": 5 },
-        { "seasonsRef": 10387, "notes": null, "seasonsOrderId": 3 }
+        {
+          "seasonsRef": 11949,
+          "notes": null,
+          "seasonsOrderId": 3
+        },
+        {
+          "seasonsRef": 13634,
+          "notes": null,
+          "seasonsOrderId": 5
+        },
+        {
+          "seasonsRef": 10387,
+          "notes": null,
+          "seasonsOrderId": 3
+        }
       ],
       "notes": [
         {
@@ -185,15 +259,51 @@
           },
           "seasonsOrderId": 4
         },
-        { "seasonsRef": 11949, "notes": null, "seasonsOrderId": 3 },
-        { "seasonsRef": 10136, "notes": null, "seasonsOrderId": 1 },
-        { "seasonsRef": 13634, "notes": null, "seasonsOrderId": 5 },
-        { "seasonsRef": 46071, "notes": null, "seasonsOrderId": 6 },
-        { "seasonsRef": 10315, "notes": null, "seasonsOrderId": 6 },
-        { "seasonsRef": 10519, "notes": null, "seasonsOrderId": 7 },
-        { "seasonsRef": 10316, "notes": null, "seasonsOrderId": 10 },
-        { "seasonsRef": 10521, "notes": null, "seasonsOrderId": 9 },
-        { "seasonsRef": 10317, "notes": null, "seasonsOrderId": 8 }
+        {
+          "seasonsRef": 11949,
+          "notes": null,
+          "seasonsOrderId": 3
+        },
+        {
+          "seasonsRef": 10136,
+          "notes": null,
+          "seasonsOrderId": 1
+        },
+        {
+          "seasonsRef": 13634,
+          "notes": null,
+          "seasonsOrderId": 5
+        },
+        {
+          "seasonsRef": 46071,
+          "notes": null,
+          "seasonsOrderId": 6
+        },
+        {
+          "seasonsRef": 10315,
+          "notes": null,
+          "seasonsOrderId": 6
+        },
+        {
+          "seasonsRef": 10519,
+          "notes": null,
+          "seasonsOrderId": 7
+        },
+        {
+          "seasonsRef": 10316,
+          "notes": null,
+          "seasonsOrderId": 10
+        },
+        {
+          "seasonsRef": 10521,
+          "notes": null,
+          "seasonsOrderId": 9
+        },
+        {
+          "seasonsRef": 10317,
+          "notes": null,
+          "seasonsOrderId": 8
+        }
       ],
       "notes": [
         {
@@ -250,6 +360,47 @@
       "createdDate": 1647180008205,
       "updatedDate": 1647180008205,
       "uuid": "50bb29e9-57d9-4588-8e4c-ccaabae19093"
+    },
+    {
+      "name": "New bbb",
+      "folderId": 0,
+      "id": 189546,
+      "huntsCoverImgUrl": "527",
+      "seasonsListRef": [
+        {
+          "seasonsRef": 10315,
+          "notes": null,
+          "seasonsOrderId": 1
+        }
+      ],
+      "notes": [],
+      "photos": null,
+      "createdDate": 1651080269605,
+      "updatedDate": 1651080269605,
+      "uuid": "ec155c17-f90a-4b33-bd0d-5369f54c8d64"
+    },
+    {
+      "name": "New bbb 2",
+      "folderId": 0,
+      "id": 189353,
+      "huntsCoverImgUrl": "527",
+      "seasonsListRef": [
+        {
+          "seasonsRef": 10315,
+          "notes": null,
+          "seasonsOrderId": 1
+        }
+      ],
+      "notes": [],
+      "photos": null,
+      "createdDate": 1651080269605,
+      "updatedDate": 1651080269605,
+      "uuid": "ec155c17-f90a-4b33-bd0d-5369f54c8d64"
+    },
+    {
+      "name": "wewe",
+      "folderId": 0,
+      "id": 189547
     }
   ],
   "hunter": [
