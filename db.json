@@ -29,24 +29,7 @@
       "updatedDate": 1649320114564,
       "uuid": "ab1c8a62-cb36-4921-9ca6-47245ff7e186"
     },
-    {
-      "name": "AAA",
-      "folderId": 0,
-      "id": 12961,
-      "huntsCoverImgUrl": "435",
-      "seasonsListRef": [
-        {
-          "seasonsRef": 36634,
-          "notes": null,
-          "seasonsOrderId": 2
-        }
-      ],
-      "notes": [],
-      "photos": null,
-      "createdDate": 1649320114561,
-      "updatedDate": 1649320114561,
-      "uuid": "ab1c8a62-cb36-4921-9ca6-47245ff7e181"
-    },  
+    
     {
       "name": "Nitin Hunt 123",
       "folderId": 0,
